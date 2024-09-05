@@ -2,9 +2,9 @@ import React from 'react'
 import { useState } from 'react'
 const HookContador = () => {
 
-    const [contador, setContador] = useState(1)
+    const [contador, setContador] = useState(12)
     function incrementarContador() {
-        setContador(contador +1)
+        setContador(contador +2)
     }
   return (
     <div>
