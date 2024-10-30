@@ -1,0 +1,19 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "Amanhã não tem aula",
+            "texto": "é mentira"
+        },
+        {
+            "id": 2,
+            "titulo": "txuplec tchuplink",
+            "texto": "frase francesa famosa"   
+        },
+        {
+            "id": 3,
+            "titulo": "know mam no cry",
+            "texto": "não chores mais"
+        }
+    ]
+}
