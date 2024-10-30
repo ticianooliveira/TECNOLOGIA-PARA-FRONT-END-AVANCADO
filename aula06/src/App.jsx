@@ -6,6 +6,7 @@ import DpoLgpd from './pages/DpoLgpd'
 import Noticias from './pages/Noticias'
 import Navbar from './components/Navbar'
 import VisualizaNoticia from './pages/VisualizaNoticia'
+import NoticiasAxios from './pages/NoticiasAxios'
 
 const App = () => {
   return (
