@@ -1,0 +1,19 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "Importante",
+            "texto": "O UNIESP anuncia o início do período de matrículas para o semestre 2024.2. Alunos podem acessar o portal até 30 de novembro para garantir sua vaga."
+        },
+        {
+            "id": 2,
+            "titulo": "Evento",
+            "texto": "A Semana Acadêmica 2024 acontece entre 20 e 24 de novembro. O evento contará com palestras, workshops e minicursos voltados a diversas áreas do conhecimento."
+        },
+        {
+            "id": 3,
+            "titulo": "Destaque",
+            "texto": "UNIESP é reconhecido como uma das melhores instituições do estado em pesquisa e inovação, segundo o último ranking do MEC."
+        }
+    ]
+}
