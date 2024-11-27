@@ -1,7 +1,3 @@
-Aqui está o README traduzido para o inglês, mantendo os nomes da matéria e do site em português:  
-
----
-
 # **UNIESP - Site Institucional**  
 
 ## **Project Description**  
